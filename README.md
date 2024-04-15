@@ -1,0 +1,1 @@
+a Flask RESTful API implementation with authentication and SQLite integration that I've been working on. This API allows for user registration, item management, and secure access control using JSON Web Tokens (JWT)
